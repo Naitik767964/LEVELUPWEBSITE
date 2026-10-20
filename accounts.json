@@ -1,0 +1,88 @@
+[
+  {
+    "uid": "8086759807",
+    "password": "5480B9A3F039089285B62A78A9893D55100484BD60DB16107A752F4CA4408FB8"
+  },
+  [
+    {
+      "uid": "8317124856",
+      "password": "46C9230310F4AE9AF553B3A0E8D5D7E2E2CF15A325D686AA79EB7B1FECA89233",
+      "name": "SARKAR129591",
+      "account_id": "18804015399",
+      "region": "IND",
+      "created_at": "2026-10-20 09:41:10"
+    },
+    {
+      "uid": "8317124857",
+      "password": "FD6CA16AAFE7B8FBBABCBB1024F150C54D4D955CA497D45685357AC321477412",
+      "name": "SARKAR350352",
+      "account_id": "18804015407",
+      "region": "IND",
+      "created_at": "2026-10-20 09:41:10"
+    },
+    {
+      "uid": "8317124835",
+      "password": "0D15B5051C754E6E9BD96656DB468DE4A7CB4E16DEB70382F29D1EDCF9ABAD72",
+      "name": "SARKAR085176",
+      "account_id": "18804015403",
+      "region": "IND",
+      "created_at": "2026-10-20 09:41:10"
+    },
+    {
+      "uid": "8317124826",
+      "password": "FF12471B760081DDDDFD915ED4D02A47A336A429C45B1E11CACA30536445DD4D",
+      "name": "SARKAR237931",
+      "account_id": "18804015398",
+      "region": "IND",
+      "created_at": "2026-10-20 09:41:10"
+    },
+    {
+      "uid": "8317124872",
+      "password": "C85B7476CB5FD8B8A5AF95613BCC5D5D3680DC3D674DA69F7A4DBD53034C4D99",
+      "name": "SARKAR157450",
+      "account_id": "18804015468",
+      "region": "IND",
+      "created_at": "2026-10-20 09:41:10"
+    },
+    {
+      "uid": "8317124888",
+      "password": "18DC93CD51C9BB5CD7F1DE0FFAB95DB1AC25395F94AEA644BA2E9B54ED0F6FD2",
+      "name": "SARKAR577917",
+      "account_id": "18804015485",
+      "region": "IND",
+      "created_at": "2026-10-20 09:41:11"
+    },
+    {
+      "uid": "8317124899",
+      "password": "E2A554CF64A83B745C039124C88B0E580A06C484CD0ED9648191D40D24023EA4",
+      "name": "SARKAR552787",
+      "account_id": "18804015510",
+      "region": "IND",
+      "created_at": "2026-10-20 09:41:11"
+    },
+    {
+      "uid": "8317124914",
+      "password": "C4AA9433A63C2198763B0D8A7FFC304EABC46911EC543AD4FB77FBD11B478870",
+      "name": "SARKAR187406",
+      "account_id": "18804015554",
+      "region": "IND",
+      "created_at": "2026-10-20 09:41:11"
+    },
+    {
+      "uid": "8317124923",
+      "password": "380BDF92237B0C07B61F1813E5ACD681E8A3476DF1FBCEDB0D2610F05700664E",
+      "name": "SARKAR082150",
+      "account_id": "18804015587",
+      "region": "IND",
+      "created_at": "2026-10-20 09:41:11"
+    },
+    {
+      "uid": "8317124935",
+      "password": "4F1D614252332C38182FD46F477BC31A14D236BE35D64D4A9A114F33CFEB0FB7",
+      "name": "SARKAR238208",
+      "account_id": "18804015601",
+      "region": "IND",
+      "created_at": "2026-10-20 09:41:12"
+    }
+  ]
+]
